@@ -50,7 +50,7 @@ uv run python Problem_Statement_1/task3_csv_import/run.py
 ## 📁 Repository Structure
 
 ```
-Assignment/
+accuknox-assignment/
 ├── README.md                                          <- Main repository documentation
 ├── pyproject.toml                                     <- Modern uv project configuration
 ├── uv.lock                                            <- Deterministic dependency lockfile
