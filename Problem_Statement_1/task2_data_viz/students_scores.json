@@ -1,0 +1,66 @@
+[
+  {
+    "student_id": "STU001",
+    "name": "Aarav Sharma",
+    "math": 88,
+    "science": 92,
+    "english": 79,
+    "computer_science": 95
+  },
+  {
+    "student_id": "STU002",
+    "name": "Diya Patel",
+    "math": 76,
+    "science": 85,
+    "english": 88,
+    "computer_science": 82
+  },
+  {
+    "student_id": "STU003",
+    "name": "Rohan Verma",
+    "math": 95,
+    "science": 89,
+    "english": 74,
+    "computer_science": 98
+  },
+  {
+    "student_id": "STU004",
+    "name": "Ananya Iyer",
+    "math": 64,
+    "science": 70,
+    "english": 85,
+    "computer_science": 78
+  },
+  {
+    "student_id": "STU005",
+    "name": "Kabir Mehta",
+    "math": 82,
+    "science": 78,
+    "english": 80,
+    "computer_science": 89
+  },
+  {
+    "student_id": "STU006",
+    "name": "Sneha Reddy",
+    "math": 91,
+    "science": 94,
+    "english": 90,
+    "computer_science": 96
+  },
+  {
+    "student_id": "STU007",
+    "name": "Vikram Singh",
+    "math": 58,
+    "science": 65,
+    "english": 72,
+    "computer_science": 68
+  },
+  {
+    "student_id": "STU008",
+    "name": "Meera Joshi",
+    "math": 85,
+    "science": 88,
+    "english": 92,
+    "computer_science": 91
+  }
+]

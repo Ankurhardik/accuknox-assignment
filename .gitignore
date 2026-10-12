@@ -1,0 +1,22 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# SQLite Journal / Temporary files
+*.db-journal
+*.db-wal
+*.db-shm
+
+# IDE & OS Artifacts
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+*.tmp

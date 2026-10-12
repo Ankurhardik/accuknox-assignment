@@ -1,0 +1,6 @@
+# Minimal dependencies for AccuKnox AI/ML Assessment
+# Task 1 & Task 3 use Python Standard Library only (urllib, json, csv, sqlite3, re, logging)
+# Task 2 uses matplotlib for rendering the student performance bar chart
+
+matplotlib>=3.8.0
+python-docx>=1.1.0
